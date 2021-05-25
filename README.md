@@ -6,3 +6,4 @@ Como vai demorar para sair das próximas versões do JDK, resolvi deixar como co
 Quatro Funções básicas: cadastrar, consulta, apagar registro e
 relátorio.
 Com o proporsito da interface gráfica ser só de javaswing, não coloquei itext ou ireport nesse CRUD, então esta programado em jtable o relatório do cadastro.
+Conexão em JDBC com drive para o Mysql. 
