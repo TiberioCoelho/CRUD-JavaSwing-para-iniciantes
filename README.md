@@ -1,5 +1,5 @@
 # CRUD-JavaSwing-para-iniciantes
-Este projeto de CRUD, cadastro de pessoal, está para consulta pública de alunos a profissional em JavaSWING.  
+Este projeto de CRUD, cadastro de pessoal, está para consulta pública de alunos a profissionais em JavaSWING.  
 Como o JavaSwing vai demorar para sair nas próximas versões do JDK, resolvi deixar como consulta e da interface gráfica com o elegante look end feel em Nimbus.
 
 <strong>Características</strong>
